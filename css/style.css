@@ -1,0 +1,297 @@
+/*==================header=============*/
+body {
+  font-family: "Harry Potter" sans-serif;
+}
+.wrapper {
+  width: 100%;
+}
+.header {
+}
+.header__img {
+}
+.header__img img {
+  width: 100%;
+}
+.header__title {
+  font-family: "Harry Potter", sans-serif;
+  font-size: 120px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: rgb(88, 6, 6);
+  line-height: 1.5;
+  letter-spacing: 5px;
+  text-shadow: -5px 5px 0px #00e6e6, -10px 10px 0px #01cccc,
+    -15px 15px 0px #00bdbd;
+}
+.nav img {
+  width: 100%;
+  height: 300px;
+  box-shadow: -2px 6px 9px 12px rgba(13, 5, 7, 0.6);
+}
+/*========================gripffindor__page===============*/
+
+.main {
+}
+.griffindor__header {
+}
+.hedader-griffindor__img img {
+  width: 100%;
+}
+.header-griffindor__title {
+  background-color: rgb(88, 6, 6);
+}
+.title__page {
+  font-size: 44px;
+  text-transform: uppercase;
+  line-height: 1.5;
+  letter-spacing: 10px;
+  font-family: "Harry Potter", sans-serif;
+  text-align: center;
+  padding: 50px 0px;
+  text-decoration: underline;
+  text-shadow: -3px 3px 0px #00e6e6;
+}
+.hedader-griffindor__img {
+}
+.griffindor-page__nav {
+  padding: 40px 20px;
+  margin: -5px;
+
+  background-color: rgb(38, 7, 66);
+}
+.nav-page {
+  text-align: center;
+  font-family: "Caveat", "Manrope", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-style: italic;
+}
+.griffindor-page__link {
+  margin: 10px 30px;
+  padding: 10px 10px;
+  border: solid 2px #aa0f04;
+}
+/*===============faunder-grifindor==========*/
+#founder-grifindor {
+  background-color: #40a90c;
+}
+.founder-grifindor__header {
+}
+.founder-grifindor__title {
+  font-size: 30px;
+  text-align: right;
+  color: rgb(74, 12, 74);
+}
+.subtitle__page {
+  font-family: "Harry Potter", sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 3px;
+  font-size: 30px;
+  margin: 0px 0px 0px 3px;
+  padding: 20px;
+}
+.faunder-grifindor__img {
+  margin: 0px 0px 0px 20px;
+}
+.faunder-grifindor__img img {
+  width: 400px;
+}
+.faunder-grifindor__text {
+  margin: 0px 0px 0px 20px;
+  width: 800px;
+}
+.faunder-grifindor__text p {
+  text-indent: 20px;
+  font-size: 25px;
+  line-height: 1.5;
+  padding: 0px 0px 15px 0px;
+}
+.faunder-grifindor-text__overline {
+  text-decoration: overline;
+  text-transform: capitalize;
+  color: #240ca9;
+  margin: 20px 20px;
+}
+.faunder-grifindor-text__line-through {
+  text-decoration: line-through;
+  text-transform: lowercase;
+  color: yellow;
+}
+/*=============placing-grifindor============*/
+#placing-grifindor {
+  background-color: #096f2f;
+}
+.placing-grifindor__title {
+  color: darkblue;
+  text-align: center;
+  font-style: italic;
+  color: rgb(96, 16, 96);
+
+  text-shadow: -4px 4px 4px #240ca9;
+}
+.placing-grifindor__img img {
+  width: 600px;
+}
+.placing-grifindor__img {
+  margin: 10px 0px 20px 10px;
+}
+.placing-grifindor__text {
+  text-align: center;
+  font-size: 34px;
+  margin: 0 0 0 20px;
+  width: 800px;
+  color: blueviolet;
+  text-shadow: -4px 4px 4px #10064a;
+}
+.placing-grifindor__text h4 {
+  color: #240ca9;
+}
+
+.famous-grifindor__title {
+  font-style: italic;
+  color: #10064a;
+  text-align: justify;
+  background-color: #01cccc;
+  word-spacing: 30px;
+}
+.famous-grifindor__items {
+  margin: 50px 100px;
+}
+.famous-grifindor__damboldor {
+}
+.damboldor-link__title {
+}
+.damboldor__item > p {
+  color: #103c3c;
+  font-size: 18px;
+  line-height: 1.2;
+  margin: 20px;
+  text-indent: 18px;
+}
+.famous-grifindor__damboldor h4,
+.famous-grifindor__mcgonagall h4,
+.famous-slytherin__snape h4,
+.famous-slytherin__lestrange h4 {
+  font-size: 34px;
+  color: #10064a;
+  text-align: center;
+  text-shadow: 5px -5px 5px #01cccc;
+}
+.famous-grifindor__mcgonagall {
+}
+.mcgonagall--link__title {
+}
+.mcgonagall__item p {
+  font-size: 18px;
+  line-height: 1.2;
+  margin: 20px;
+  text-indent: 18px;
+}
+/*==========================slytherin==================*/
+.slytherin__header {
+}
+.header-slytherin__title {
+}
+.title__page {
+  background-color: #07451d;
+}
+.header-slytherin__img img {
+  width: 100%;
+}
+.slytherin-page__nav {
+}
+.nav-page {
+  padding: 20px;
+  background-color: #10064a;
+  color: #40a90c;
+}
+.slytherin-page__link {
+  margin: 40px;
+}
+.founder-slytherin__title {
+  text-align: right;
+  background-color: #052020;
+}
+.subtitle__page {
+}
+.faunder-slytherin__img {
+  margin: 0px 30px;
+}
+#founder-slytherin {
+  background-color: #052020;
+}
+.snape__item__text_2 .snape__item-name {
+  color: #052020;
+}
+p.snape__item__text_1 {
+  color: #096f2f;
+}
+.snape__item__text_1 + p {
+  color: #00e6e6;
+  font-size: 20px;
+  text-indent: 20px;
+  margin: 10px;
+}
+.famous-slytherin__lestrange h4 {
+  color: #0d00bd;
+}
+
+div.faunder-slytherin__text {
+  margin: 0px 0px 0px 20px;
+}
+.faunder-slytherin__text {
+  font-size: 20px;
+  line-height: 1.2;
+  font-style: italic;
+  letter-spacing: 2px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 700;
+  text-indent: 10px;
+}
+.famous-slytherin__title {
+  background-color: #201105;
+  font-style: italic;
+}
+.famous-slytherin__items {
+  font-size: 20px;
+  line-height: 1.2;
+  font-style: italic;
+  letter-spacing: 2px;
+  font-family: "Manrope", "Harry Potter" sans-serif;
+  font-weight: 700;
+  text-indent: 10px;
+  margin: 20px;
+}
+.famous-slytherin__lestrange {
+}
+.lestrange-link__title.link-title {
+}
+.lestrange__item {
+}
+.famous-slytherin__snape {
+}
+
+.snape-link__title {
+}
+.snape__item ~ p {
+  color: #00e6e6;
+}
+
+.footer {
+  text-align: center;
+  padding: 15px;
+  border: 10px solid #10064a;
+  width: 200px;
+  margin-left: 500px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: #07451d;
+  border-radius: 50px;
+  color: #aa0f04;
+  font-weight: 700;
+  font-size: 20px;
+}
