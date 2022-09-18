@@ -1,6 +1,6 @@
 /*==================header=============*/
 body {
-  font-family: "Harry Potter" sans-serif;
+  font-family: "Harry Potter", sans-serif;
 }
 .wrapper {
   width: 100%;
@@ -261,7 +261,7 @@ div.faunder-slytherin__text {
   line-height: 1.2;
   font-style: italic;
   letter-spacing: 2px;
-  font-family: "Manrope", "Harry Potter" sans-serif;
+  font-family: "Manrope", "Harry Potter", sans-serif;
   font-weight: 700;
   text-indent: 10px;
   margin: 20px;
